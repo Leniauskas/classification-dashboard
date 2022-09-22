@@ -1,4 +1,6 @@
 # classification-dashboard
+You can use the app on:  https://leniauskas.shinyapps.io/classification_dashboard/  
+
 This project contains a shiny app for performing a classification analysis. The app summarise data from states across the US relating to traffic fatalities and is able to recommend a classification method for predicting whether a state has an above average traffic fatality rate or not. The data set, fatality-data.csv contains information on the following variables,  
 • beertax - tax on a case of beer (in $s);  
 • jaild - Is there a mandatory jail sentence for drink driving? (yes, no);  
